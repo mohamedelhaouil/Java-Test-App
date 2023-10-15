@@ -1,4 +1,4 @@
-#Java App for testing purposes
+# Java App for testing purposes
 #
 
 ## Prerequisites
